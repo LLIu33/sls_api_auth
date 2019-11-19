@@ -1,0 +1,76 @@
+{
+    "resource": "/auth/verify_sms",
+    "path": "public/auth/verify_sms",
+    "httpMethod": "GET",
+    "headers": {
+        "Accept-Encoding": "gzip, deflate",
+        "CloudFront-Forwarded-Proto": "https",
+        "CloudFront-Is-Desktop-Viewer": "true",
+        "CloudFront-Is-Mobile-Viewer": "false",
+        "CloudFront-Is-SmartTV-Viewer": "false",
+        "CloudFront-Is-Tablet-Viewer": "false",
+        "CloudFront-Viewer-Country": "RU",
+        "Host": "api.texenergo.com",
+        "User-Agent": "Crystal",
+        "Via": "1.1 bccded73b8b9a1d038e5d874cf586402.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Id": "ME-0huogNLfJKMiS8-XVycuocXHw0DZF8nvfSKQRZIEpvVgfGy5Rgg==",
+        "X-Amzn-Trace-Id": "Root=1-5d279b16-0b30828005f20a80449bb258",
+        "X-Forwarded-For": "95.163.214.148, 52.46.36.85",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https"
+    },
+    "multiValueHeaders": {
+        "Accept-Encoding": [
+            "gzip, deflate"
+        ],
+        "CloudFront-Forwarded-Proto": [
+            "https"
+        ],
+        "CloudFront-Is-Desktop-Viewer": [
+            "true"
+        ],
+        "CloudFront-Is-Mobile-Viewer": [
+            "false"
+        ],
+        "CloudFront-Is-SmartTV-Viewer": [
+            "false"
+        ],
+        "CloudFront-Is-Tablet-Viewer": [
+            "false"
+        ],
+        "CloudFront-Viewer-Country": [
+            "RU"
+        ],
+        "Host": [
+            "api.texenergo.com"
+        ],
+        "User-Agent": [
+            "Crystal"
+        ],
+        "Via": [
+            "1.1 bccded73b8b9a1d038e5d874cf586402.cloudfront.net (CloudFront)"
+        ],
+        "X-Amz-Cf-Id": [
+            "ME-0huogNLfJKMiS8-XVycuocXHw0DZF8nvfSKQRZIEpvVgfGy5Rgg=="
+        ],
+        "X-Amzn-Trace-Id": [
+            "Root=1-5d279b16-0b30828005f20a80449bb258"
+        ],
+        "X-Forwarded-For": [
+            "95.163.214.148, 52.46.36.85"
+        ],
+        "X-Forwarded-Port": [
+            "443"
+        ],
+        "X-Forwarded-Proto": [
+            "https"
+        ]
+    },
+    "queryStringParameters": {},
+    "multiValueQueryStringParameters": null,
+    "pathParameters": {},
+    "stageVariables": null,
+    "requestContext":null,
+    "body": null,
+    "isBase64Encoded": false
+}
